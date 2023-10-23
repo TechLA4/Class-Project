@@ -1,0 +1,1 @@
+arm-linux-ld -Ttext 0 start.o led.o uart.o main.o my_printf.o lib1funcs.o -o uart.elf -lgcc -L /usr/local/arm/4.3.2/lib/gcc/arm-none-linux-gnueabi/4.3.2
