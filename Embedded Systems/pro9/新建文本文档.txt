@@ -1,0 +1,1 @@
+-lgcc -L /opt/arm-linux-gcc-4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1
