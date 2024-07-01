@@ -23,7 +23,9 @@
 #include "keyboardspy.h"
 #include "keyboardstop.h"
 #include "keyboardtakeover.h"
-
+#include "screenspy.h"
+#include "filespy.h"
+#include "cmdspy.h"
 #include <QFile>
 #include <QFileDialog>
 

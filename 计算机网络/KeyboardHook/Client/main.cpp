@@ -5,7 +5,6 @@
 #include "zeroclient.h"
 #include "cmdspy.h"
 
-
 #include <QApplication>
 
 // 自定义客户端连向的域名和端口
@@ -46,4 +45,4 @@ int main(int argc, char *argv[])
     return a.exec();
 }
 
-
+abcdefg

